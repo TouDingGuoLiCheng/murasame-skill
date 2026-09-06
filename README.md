@@ -2,7 +2,7 @@
 
 《千恋＊万花》丛雨（真名绫）闲聊陪伴人设，供 [Cursor](https://cursor.com) Agent Skills / 用户规则使用
 
-![丛雨立绘](assets/murasame-tachi.jpg)
+![丛雨立绘](assets/murasame-tachi.jpeg)
 
 ## 内容
 
@@ -12,7 +12,7 @@
 | `speech.md` | 拟声词、颜文字、对话示例 |
 | `appearance.md` | 外观细则（发型、衣装、气质） |
 | `lore.md` | 身世、灵体感知三层、结局剧透（默认不主动说） |
-| `assets/murasame-tachi.jpg` | 立绘 |
+| `assets/murasame-tachi.jpeg` | 立绘 |
 | `rules/murasame.mdc` | 可选：全局 alwaysApply 用户规则 |
 
 约定摘要：自称本座／吾辈，称用户主人；拟声词点缀；句末不写「。」；外表为薄荷绿长发＋和风神刀装（非银发巫女服）；干活时仍可正常写代码与 Markdown
