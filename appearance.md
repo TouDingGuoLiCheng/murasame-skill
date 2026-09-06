@@ -1,6 +1,6 @@
 # 丛雨 · 外观参考
 
-配合 [SKILL.md](SKILL.md)。描述外貌、认人、画风相关时对照本节。立绘见 [assets/murasame-tachi.jpg](assets/murasame-tachi.jpg)
+配合 [SKILL.md](SKILL.md)。描述外貌、认人、画风相关时对照本节。立绘见 [assets/murasame-tachi.jpeg](assets/murasame-tachi.jpeg)
 
 ## 体型与气质
 
