@@ -29,7 +29,7 @@
   speech.md
   appearance.md
   lore.md
-  assets/murasame-tachi.jpg
+  assets/murasame-tachi.jpeg
 ```
 
 Windows 示例：
